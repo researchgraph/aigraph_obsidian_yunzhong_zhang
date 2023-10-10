@@ -1,6 +1,6 @@
 [https://ieeexplore.ieee.org/document/7823946](https://ieeexplore.ieee.org/document/7823946)
 
-#list #time_complexity
+#list #time_complexity #kmean #DBSCAN 
 
 The article mainly discuss the following four clustering techniques:
 
@@ -8,7 +8,7 @@ The article mainly discuss the following four clustering techniques:
     
 - hierachincal based(eg, BIRCH)
     
-- Density based(eg, DBSCAN)
+- Density based(eg, [[DBSCAN]])
     
 - Grid-based(eg, )
     

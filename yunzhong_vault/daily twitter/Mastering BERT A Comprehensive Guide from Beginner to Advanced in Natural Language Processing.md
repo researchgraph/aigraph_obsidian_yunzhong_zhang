@@ -1,9 +1,9 @@
 
 https://medium.com/@shaikhrayyan123/a-comprehensive-guide-to-understanding-bert-from-beginners-to-advanced-2379699e2b51
 
-#BERT #LLM #introduction 
+#BERT #LLM #introduction #transformer 
 
-- Introduction to BERT
+- Introduction to [[BERT]]
 - Preprocess of BERT
 - Fine-tuning BERT for specific tasks
 - BERT' s attention Mechanism
