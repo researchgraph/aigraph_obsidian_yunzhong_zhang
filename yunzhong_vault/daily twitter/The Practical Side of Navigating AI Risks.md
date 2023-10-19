@@ -2,4 +2,4 @@ A comprehensive study. Algorithmic bias, privacy concerns, and copyright infring
 
 https://towardsdatascience.com/the-practical-side-of-navigating-ai-risks-fc849037501c
 
-#social #legal #bias
+#social #legal #bias #NLP 

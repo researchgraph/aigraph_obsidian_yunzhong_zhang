@@ -10,4 +10,4 @@ it does a great job of seeking areas in the data that have a high density of obs
 
 https://elutins.medium.com/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818
 
-#DBSCAN #aigraph
+#DBSCAN #aigraph #NLP #clusters 

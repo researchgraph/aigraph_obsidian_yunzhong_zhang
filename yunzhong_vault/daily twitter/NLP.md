@@ -1,5 +1,5 @@
 An introduction of NLP. Pipeline of building up NLP application.
-#introduction 
+#introduction #NLP  
 ## Step 1: Sentence Segmentation
 ## Step 2: Word Tokenization
 ## Step 3: Predicting Parts of Speech for Each Token
