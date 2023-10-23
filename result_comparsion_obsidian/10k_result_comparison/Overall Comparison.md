@@ -1,4 +1,4 @@
-Mainly discuss the result below: 
+åMainly discuss the result below: 
 - Topics produced by four models(HDBSCAN, GMM, LDA, NMF)
 - Documents distribution of clusters produced by four models
 - Keywords occurrences of  the common clusters(which keywords contribute to the cluster)

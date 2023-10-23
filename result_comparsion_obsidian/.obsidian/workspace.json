@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb46f3066f143b2",
+        "id": "f42518db66566e03",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a2c681f6761669",
+            "id": "04e63f478b4dfd1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "3c9b75ccf52f6dda",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10k_result_comparison/GMM/gmm_distribution.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10k_result_comparison/GMM/gmm_distribution.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10k_result_comparison/GMM/gmm_distribution.png"
+              }
             }
           }
         ],
@@ -139,30 +145,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a2c681f6761669",
+  "active": "eac749d5a7278805",
   "lastOpenFiles": [
-    "Overall Comparison.md",
-    "overall_comparison/occurance_medicine_comp.png",
-    "overall_comparison/occurance_education_comp.png",
-    "overall_comparison/occurance_cyber-security_comp.png",
-    "overall_comparison/distribution_overall.png",
-    "overall_comparison/occurance_nonsense_comp.png",
+    "50k_result_comparison/results_visualization.md",
+    "50k_result_comparison/automation.png",
+    "50k_result_comparison/images/agriculture.png",
+    "50k_result_comparison/images/cancer.png",
+    "50k_result_comparison/images",
+    "10k_result_comparison/Overall Comparison.md",
+    "50k_result_comparison/images/social.png",
+    "50k_result_comparison/images/social-media.png",
+    "50k_result_comparison/images/robot.png",
+    "50k_result_comparison/images/reinforcement-learning.png",
+    "50k_result_comparison/images/non-sense.png",
+    "50k_result_comparison/images/NLP.png",
+    "50k_result_comparison/images/neuron.png",
+    "50k_result_comparison",
+    "10k_result_comparison",
     "Untitled.md",
-    "overall_comparison",
-    "overall_distribution.png",
-    "NMF/keyword_occurance/medicine 1.png",
-    "HDBSCAN/keywords_occurance/non-sense.png",
-    "HDBSCAN/keywords_occurance/medical.png",
-    "HDBSCAN/keywords_occurance/education.png",
-    "HDBSCAN/keywords_occurance",
-    "LDA/keywords_occurance",
-    "NMF/keyword_occurance",
-    "GMM/keywords_occurance",
+    "Untitled.canvas",
+    "10k_result_comparison/overall_comparison",
+    "10k_result_comparison/HDBSCAN/keywords_occurance",
+    "10k_result_comparison/LDA/keywords_occurance",
+    "10k_result_comparison/NMF/keyword_occurance",
+    "10k_result_comparison/GMM/keywords_occurance",
     "Untitled 1.md",
     "Untitled 2.md",
-    "NMF",
-    "LDA",
-    "GMM",
-    "HDBSCAN"
+    "10k_result_comparison/NMF",
+    "10k_result_comparison/LDA"
   ]
 }
