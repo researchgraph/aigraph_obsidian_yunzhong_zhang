@@ -1,4 +1,3 @@
-
 https://arxiv.org/abs/1301.7401
 
 #EM #GMM #HAC #initialisation
