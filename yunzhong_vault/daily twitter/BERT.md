@@ -1,3 +1,4 @@
+https://arxiv.org/abs/1810.04805
 #BERT #transformer #pretrain #NLP 
 
 BERT (Bidirectional Encoder Representations from Transformers) is a groundbreaking natural language processing model developed by Google in 2018. It has had a significant impact on various language-related tasks and has become a cornerstone in the field of [[NLP]].
@@ -18,5 +19,3 @@ Key points about BERT:
     
 
 In summary, BERT revolutionized natural language processing by introducing bidirectional context understanding through pre-training on large text corpora. Its ability to understand words in context and adapt to various NLP tasks has had a profound impact on the field.
-
-https://arxiv.org/abs/1810.04805

@@ -1,3 +1,4 @@
+https://developers.google.com/machine-learning/resources/intro-llms
 1. A language model is a machine learning model designed to predict and generate natural language, such as autocomplete suggestions.
     
 2. Language models estimate the probability of tokens or sequences of tokens within a longer text.
@@ -10,5 +11,4 @@
     
 6. Transformers, introduced in 2017, are a pivotal architecture for LLMs, designed around the concept of attention, which helps process longer text sequences efficiently
 
-https://developers.google.com/machine-learning/resources/intro-llms
 #LLM #NLP 

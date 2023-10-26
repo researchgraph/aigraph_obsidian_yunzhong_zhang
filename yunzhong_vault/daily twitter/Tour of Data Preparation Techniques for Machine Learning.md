@@ -1,3 +1,4 @@
+https://machinelearningmastery.com/data-preparation-techniques-for-machine-learning/
 #preprocess #NLP 
 General steps: 
 - **Step 1**: Define Problem.
@@ -14,5 +15,4 @@ Tasks:
 
 Twitter: 
 Feature engineering refers to the process of creating new input variables from the available data. #aigraph 
-https://machinelearningmastery.com/data-preparation-techniques-for-machine-learning/
 

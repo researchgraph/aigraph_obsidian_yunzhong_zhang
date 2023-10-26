@@ -1,3 +1,4 @@
+https://www.techopedia.com/12-practical-large-language-model-llm-applications
 Some LLM Applications
 - Translation With Language Models
 - Malware analysis
@@ -15,5 +16,3 @@ Some LLM Applications
 #LLM #NLP
 
 Applying LLM on the keyword research will be a revolution of seo.
-
-https://www.techopedia.com/12-practical-large-language-model-llm-applications

@@ -1,3 +1,4 @@
+https://t.co/pWP0FsI5ic
 An introduction of NLP. Pipeline of building up NLP application.
 #introduction #NLP  
 ## Step 1: Sentence Segmentation
@@ -10,4 +11,3 @@ An introduction of NLP. Pipeline of building up NLP application.
 ## Step 8: Coreference Resolution
 
 
-https://t.co/pWP0FsI5ic

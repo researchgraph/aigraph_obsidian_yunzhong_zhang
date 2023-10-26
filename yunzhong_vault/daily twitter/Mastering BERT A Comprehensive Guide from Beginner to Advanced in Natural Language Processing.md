@@ -1,4 +1,3 @@
-
 https://medium.com/@shaikhrayyan123/a-comprehensive-guide-to-understanding-bert-from-beginners-to-advanced-2379699e2b51
 
 #BERT #LLM #introduction #transformer #NLP 

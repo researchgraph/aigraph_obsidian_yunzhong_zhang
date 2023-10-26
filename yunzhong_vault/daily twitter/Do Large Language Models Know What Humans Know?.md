@@ -1,3 +1,4 @@
+https://onlinelibrary.wiley.com/doi/10.1111/cogs.13309
 [[LLM]] Large Language Models
 1. The article explores whether the ability to attribute beliefs to others is innate or acquired through language exposure.
     
@@ -13,6 +14,5 @@
     
 7. The findings suggest that while language exposure may partially contribute to humans' ability to understand others' mental states, other mechanisms are also at play.
 
-https://onlinelibrary.wiley.com/doi/10.1111/cogs.13309
 
 #LLM #social #transformer #NLP 
